@@ -1,0 +1,111 @@
+body {
+	background-image: url("css/grfx/bg.png");
+	background-repeat: repeat-x;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background-image: url("css/grfx/header.jpg");
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 272px;
+	margin: auto;
+	margin-top: -31px
+}
+article {
+	margin: auto;
+	border: hidden;
+	background-color: white;
+	width: 800px;
+	margin-top: -25px;
+}
+#vloot1 {
+ 	float: left;
+ 	padding: 0 20px 20px 0;
+}
+h2 {
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 0;
+}
+#vloot0 {
+	float: left;
+	padding-right: 20px;
+}
+p {
+	padding: 0 20px;
+}
+#vloot2 {
+	float: right;
+	padding: 20px;
+	
+}
+#vloot3 {
+	float: left;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+nav {
+	display: inline;
+}
+#vloot4 {
+	float: left;
+	padding: 0 20px 20px 0;
+}
+#vloot11 {
+	float: left;
+	padding: 0 20px 20px 0px;
+} 
+#vloot12 {
+	padding: 20px;
+	float: right;
+}
+#vloot5 {
+	padding: 20px 0 20px 20px;
+	float: right;
+}
+#vloot6 {
+	padding: 20px 20px 20px 0px; 
+	float: left;
+}
+#vloot7 {
+	padding: 20px 20px 20px 0px;
+	float: left;
+}
+#vloot8 {
+	padding: 20px 0 0 20px;
+	float: right;
+}
+#vloot9 {
+	padding: 20px 20px 20px 0px;
+	float: left;
+}
+#vloot10 {
+	float: right;
+	padding: 20px 0 20px 20px ;
+}
+ul {
+	color: white;
+ }
+ li a {
+ 	text-decoration: none;
+ 	color: white;
+    float: left;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 125px;
+
+ }
+ nav ul li {
+ 	display: inline;
+ }
+ a:hover {
+ 	color: lightblue;
+ }
+ h1 {
+ 	padding: 10px 0px 0px 20px;
+ }
+ .jop {
+ 	margin-top: -35px
+ 	}
