@@ -1,7 +1,7 @@
 body {
 	background-image: url("css/grfx/bg.png");
 	background-repeat: repeat-x;
-	font-size: 20px;
+	font-size: 17px;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -11,14 +11,14 @@ header {
 	width: 800px;
 	height: 272px;
 	margin: auto;
-	margin-top: -31px
+	margin-top: -27px
 }
 article {
 	margin: auto;
 	border: hidden;
 	background-color: white;
 	width: 800px;
-	margin-top: -25px;
+	margin-top: -21px;
 }
 #vloot1 {
  	float: left;
@@ -94,7 +94,7 @@ ul {
     float: left;
     padding: 10px;
     font-size: 15px;
-    margin-top: 125px;
+    margin-top: 140px;
 
  }
  nav ul li {
@@ -104,8 +104,8 @@ ul {
  	color: lightblue;
  }
  h1 {
- 	padding: 10px 0px 0px 20px;
+ 	padding: 10px 0px 0px 17px;
  }
  .jop {
- 	margin-top: -35px
+ 	margin-top: -27px
  	}
